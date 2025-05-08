@@ -61,15 +61,6 @@ export default function Home() {
                   </Link>
                 </div>
               </div>
-              <div className="flex items-center justify-center">
-                <div className="relative w-full aspect-video overflow-hidden rounded-xl">
-                  <img
-                    alt="SpySniffer Dashboard Preview"
-                    className="object-cover"
-                    src="/placeholder.svg?height=720&width=1280"
-                  />
-                </div>
-              </div>
             </div>
           </div>
         </section>
